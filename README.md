@@ -6,6 +6,12 @@ I'm a frontend-focused Software Development Engineer with **3+ years of experien
 
 I specialize in turning designs into **pixel-perfect, reusable, production-ready interfaces** and connecting frontend applications with REST APIs.
 
+### 🧪 Additional Portfolio Project
+
+**[BiteCraft — Food Discovery](https://github.com/ishitajindal-dev/portfolio/tree/main/bitecraft)**
+
+A ReactJS + Vite recipe discovery app featuring live TheMealDB REST API search, category browsing, recipe details, random discovery, and saved favourites. See the project folder for setup instructions and source code.
+
 ### 👩‍💻 About Me
 
 - 💼 Software Development Engineer at **Webority Technologies**
