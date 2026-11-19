@@ -1,18 +1,95 @@
-# Ishita Jindal — Portfolio
+# Hi, I'm Ishita Jindal 👋
 
-A responsive personal portfolio built with plain HTML, CSS, and JavaScript.
+### Software Development Engineer | React Native | ReactJS | Frontend & UI Engineer
 
-## Customize before sharing
-- Replace the starter summary and bio with your own introduction.
-- Update the skills tags to match tools you actually use.
-- Replace the two sample project cards with real projects and repository URLs.
-- Add education, certifications, experience, and a preferred contact method.
-- Add a headshot by replacing the initials card in `index.html`, if desired.
+I'm a frontend-focused Software Development Engineer with **3+ years of experience** building responsive web and cross-platform mobile applications.
 
-## Preview locally
-Open `index.html` in a browser.
+I specialize in turning designs into **pixel-perfect, reusable, production-ready interfaces** and connecting frontend applications with REST APIs.
 
-## Deploy with GitHub Pages
-In the repository, open **Settings → Pages**, choose **Deploy from a branch**, then select **main** and **/(root)** and save. GitHub Pages will publish the root `index.html`.
+### 👩‍💻 About Me
 
-Repository: https://github.com/ishitajindal-dev/portfolio
+- 💼 Software Development Engineer at **Webority Technologies**
+- 📱 Building cross-platform applications with **React Native**
+- ⚛️ Working with **ReactJS & JavaScript**
+- 🎨 Strong background in **UI/UX and Figma-to-Code development**
+- 🔌 Experienced with **REST API integration**
+- 🚀 Experience with Android & iOS builds and production releases
+- 🧩 Focused on reusable components, responsive design, and frontend performance
+- 🤖 Exploring AI-assisted development with Claude Code, Cursor, GitHub Copilot, and ChatGPT
+
+### 🛠️ Tech Stack
+
+**Frontend & Mobile**
+
+- React Native
+- ReactJS
+- JavaScript
+- HTML5
+- CSS3
+
+**UI/UX**
+
+- Figma
+- Figma-to-Code
+- Responsive Design
+- Design Systems
+- Reusable Components
+- Pixel-Perfect UI
+
+**APIs & Development**
+
+- REST APIs
+- API Integration
+- Frontend API Consumption
+- Performance Optimization
+
+**Tools**
+
+- Git
+- GitHub
+- VS Code
+- Android
+- iOS
+
+**AI-Assisted Development**
+
+- Claude Code
+- Cursor
+- GitHub Copilot
+- ChatGPT
+- Figma AI
+
+### 🚀 Featured Projects
+
+#### 🍔 Food Me
+
+Cross-platform food application built with React Native, featuring responsive interfaces, REST API integration, and Android/iOS builds.
+
+#### 💻 Lumex
+
+Responsive frontend application with reusable components, API integration, and UI enhancements.
+
+#### 🏥 JindalX (RCM)
+
+Production frontend application focused on responsive UI, functionality, and API integration.
+
+#### 🌐 Webority Website
+
+Responsive website development using ReactJS, JavaScript, HTML5, and CSS3.
+
+### 🎓 Education
+
+**MBA – Information Technology**  
+Dr. D. Y. Patil University | 2024–2026
+
+**B.Tech – Computer Science Engineering**  
+Dr. APJ Abdul Kalam University | 2023
+
+### 📫 Connect With Me
+
+- 💼 LinkedIn: [linkedin.com/in/ishi22](https://linkedin.com/in/ishi22)
+- 📧 Email: [ishijindal22@gmail.com](mailto:ishijindal22@gmail.com)
+
+---
+
+⭐ *I enjoy building clean, scalable interfaces and turning ideas and designs into production-ready applications.*
